@@ -4,8 +4,8 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.payconiq.assignment</groupId>
-	<artifactId>spring-boot-2-jpa-with-hibernate-and-h2</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>payconiq</artifactId>
+	<version>0.0.3-SNAPSHOT</version>
 	<packaging>war</packaging>
 
 	<name>payconiq</name>

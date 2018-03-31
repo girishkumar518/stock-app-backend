@@ -34,7 +34,7 @@ public class Stock {
 	//@NotNull
 	private Double currentPrice;
 	
-	@Column(nullable = false)
+	@Column(nullable = true)
     @Temporal(TemporalType.TIMESTAMP)
     @LastModifiedDate
 	private Date lastUpdate;

@@ -29,7 +29,7 @@ import com.payconiq.assignment.services.StockService;
  */
 @RestController
 @RequestMapping("/api")
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin
 public class StockController {
 
 	private final Logger LOG = LoggerFactory.getLogger(StockController.class);
